@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.com/chouseknecht/ansible-docker.svg?branch=master)](https://travis-ci.com/chouseknecht/ansible-docker) 
 
+Adding random things here...
 
 Purpose:
 * manage a simple docker environment with ease and flexibility
